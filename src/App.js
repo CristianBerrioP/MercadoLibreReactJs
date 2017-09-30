@@ -50,7 +50,8 @@ class App extends Component {
        <div>
          <center>
            <img src='https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2'/>
-           <h1> MercadoSearch Reizzel </h1>
+           <h1> MercadoLibre </h1>
+           <h3> Reizzel </h3>
            <label>Buscar producto</label>
            <br/>
            <input type="text" onChange={this.textChanged}></input>
